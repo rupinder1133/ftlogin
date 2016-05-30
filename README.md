@@ -1,5 +1,5 @@
 # ftlogin
-####program to automatically login to fortinet firewall on startup
+####Program(python script) to automatically login to fortinet firewall on startup
 #####works only for linux
 1. Copy the "ftlogin.py" file in your HOME directory ( /home )
 2. open file in any texteditor ( eg gedit)
